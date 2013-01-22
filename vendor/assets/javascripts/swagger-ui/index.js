@@ -1,0 +1,10 @@
+//= require ./lib/jquery-1.8.0.min
+//= require ./lib/jquery.slideto.min
+//= require ./lib/jquery.wiggle.min
+//= require ./lib/jquery.ba-bbq.min
+//= require ./lib/handlebars-1.0.rc.1
+//= require ./lib/underscore-min
+//= require ./lib/backbone-min
+//= require ./lib/swagger
+//= require ./swagger-ui
+//= require ./lib/highlight.7.3.pack
