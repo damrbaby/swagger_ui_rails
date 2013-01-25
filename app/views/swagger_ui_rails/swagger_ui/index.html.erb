@@ -4,7 +4,7 @@
             discoveryUrl:"<%= @discovery_url %>",
             apiKey:"<%= @api_key %>",
             dom_id:"swagger-ui-container",
-            supportHeaderParams: false,
+            supportHeaderParams: true,
             supportedSubmitMethods: ['get', 'post', 'put'],
             onComplete: function(swaggerApi, swaggerUi){
               if(console) {
